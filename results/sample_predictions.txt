@@ -1,0 +1,11 @@
+=== Execution Sample Predictions ===
+
+Message: This application is broken and crashes whenever I press checkout.
+Predicted Sentiment: NEGATIVE
+
+Message: The shipment arrived on time and the tracking details were excellent.
+Predicted Sentiment: NEGATIVE
+
+Message: Can you please explain how to upgrade to a premium account subscription?
+Predicted Sentiment: NEUTRAL
+
